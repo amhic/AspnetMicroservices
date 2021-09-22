@@ -13,7 +13,7 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{F524D109-A6E3-42D8-95E7-2F58F5EFCC9B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket.Api", "Services\Basket\Basket.Api\Basket.Api.csproj", "{FB620130-A2CF-4527-91DE-C522A91AB14D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket.API", "Services\Basket\Basket.Api\Basket.API.csproj", "{FB620130-A2CF-4527-91DE-C522A91AB14D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{4073CF57-C3C9-4BDE-8F55-9DB6A14093A0}"
 EndProject
