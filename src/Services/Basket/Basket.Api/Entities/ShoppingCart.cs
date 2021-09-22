@@ -1,5 +1,4 @@
-﻿using Basket.Api.Entities;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace Basket.API.Entities
 {
